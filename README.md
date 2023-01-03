@@ -28,3 +28,7 @@ Repositório para colocar recursos de front end pra facilitar a vida.
 
 ## Img-Filter  
 [CssGen](https://generate-css.com/image-filter/)
+
+## Swiper    
+
+[Swiper JS](https://swiperjs.com/demos)
