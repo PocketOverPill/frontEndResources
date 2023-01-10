@@ -41,4 +41,4 @@ Repositório para colocar recursos de front end pra facilitar a vida.
 
 ## FullPage.js (Layout página inteira - muda no scroll)  
 
-[FullPage.js] (https://alvarotrigo.com/fullPage/docs/)
+[FullPage.js](https://alvarotrigo.com/fullPage/docs/)
