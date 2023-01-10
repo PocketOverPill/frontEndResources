@@ -32,3 +32,8 @@ Repositório para colocar recursos de front end pra facilitar a vida.
 ## Swiper    
 
 [Swiper JS](https://swiperjs.com/demos)
+
+
+## LottieFiles (Animações front end)  
+
+[Lottie](https://lottiefiles.com/)
