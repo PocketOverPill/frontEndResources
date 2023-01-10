@@ -37,3 +37,8 @@ Repositório para colocar recursos de front end pra facilitar a vida.
 ## LottieFiles (Animações front end)  
 
 [Lottie](https://lottiefiles.com/)
+
+
+## FullPage.js (Layout página inteira - muda no scroll)  
+
+[FullPage.js] (https://alvarotrigo.com/fullPage/docs/)
