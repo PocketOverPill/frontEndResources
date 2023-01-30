@@ -38,6 +38,10 @@ Repositório para colocar recursos de front end pra facilitar a vida.
 
 [Lottie](https://lottiefiles.com/)
 
+## Gsap (Animações front end)   
+
+
+[Gsap](https://greensock.com/gsap/)
 
 ## FullPage.js (Layout página inteira - muda no scroll)  
 
